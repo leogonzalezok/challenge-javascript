@@ -12,7 +12,7 @@ _No se frustren si no pueden con tal o cual ejercicio porque está pensado para 
 - Correr los test con el comando `npm test`
 
 ### Notas al pie: 
-- Tener en cuenta que puede que los ejercicios no estén ordenados progresivamente por dificultad, así que si te trabas mucho con uno proba pasar al siguiente para mejor suerte!  
+-  que puede que los ejercicios no estén ordenados progresivamente por dificultad, así que si te trabas mucho con uno proba pasar al siguiente para mejor suerte!  
 - ☕️ Tomarse los descansos necesarios!  
 - Es importante ir tomándose breves descansos de 10 a 20min para descansar la mente y ordenar las ideas
 
